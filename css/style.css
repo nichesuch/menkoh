@@ -1,0 +1,16 @@
+/* style.css */
+
+footer {
+    padding: 5px;
+}
+.footer-link {
+    padding: 5px;
+}
+
+.link-list {
+    list-style: none;
+}
+
+.navbar-nav a {
+    margin: 10px;
+}
