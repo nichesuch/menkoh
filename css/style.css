@@ -14,3 +14,7 @@ footer {
 .navbar-nav a {
     margin: 10px;
 }
+
+.select-btn-list button:disabled {
+    opacity: 0.8;
+}
